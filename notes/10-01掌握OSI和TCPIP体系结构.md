@@ -6,7 +6,7 @@ modified: '2021-12-10T03:11:38.624Z'
 ---
 
 # 10-01掌握OSI和TCP/IP体系结构
-![](@attachment/Clipboard_2021-12-08-15-43-47.png) ![](@attachment/Clipboard_2021-12-10-11-10-56.png)
+![](../attachments/Clipboard_2021-12-08-15-43-47.png) ![](../attachments/Clipboard_2021-12-10-11-10-56.png)
 #### OSI
 | 第几层 | 名称 | 英文名称 | 解决问题 | 具体解决问题 | 
 | :---: | ---: | :-----------------: | :--- | :--- | :--- |
